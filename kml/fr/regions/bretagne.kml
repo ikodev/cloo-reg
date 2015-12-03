@@ -4,10 +4,10 @@
 	<Style id="regionStyle">
 		<LineStyle>
 			<color>cc2d3939</color>
-			<width>1</width>
+			<width>2</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>80FF9000</color>
+			<color>DDFF9000</color>
 		</PolyStyle>
 	</Style>
     <Placemark>
