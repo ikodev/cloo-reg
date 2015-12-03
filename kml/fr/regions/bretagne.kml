@@ -3,8 +3,8 @@
 <Document>
 	<Style id="regionStyle">
 		<LineStyle>
-			<color>cc2d3939</color>
-			<width>2</width>
+			<color>DD2d3939</color>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>DDFF9000</color>
